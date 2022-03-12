@@ -13,6 +13,35 @@
       "postId": 1
     }
   ],
+  "student":[
+    {
+      "id":1,
+      "name":"gana",
+      "age":25,
+      "email":"gana@gmail.com"
+    },
+    {
+      "id":2,
+      "name":"manu",
+      "age":23,
+      "email":"manu@gmail.com"
+    },
+    {
+      "id":3,
+      "name":"anil",
+      "age":21,
+      "email":"anil@gmail.com"
+    },
+    {
+      "id":4,
+      "name":"sunny",
+      "age":23,
+      "email":"sunny@gmail.com"
+    }
+
+  ],
+
+
   "profile": {
     "name": "typicode"
   }
